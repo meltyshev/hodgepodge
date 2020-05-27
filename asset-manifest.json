@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hodgepodge/static/css/main.a5ec1593.chunk.css",
-    "main.js": "/hodgepodge/static/js/main.d781bad8.chunk.js",
-    "main.js.map": "/hodgepodge/static/js/main.d781bad8.chunk.js.map",
+    "main.js": "/hodgepodge/static/js/main.96e6e6a1.chunk.js",
+    "main.js.map": "/hodgepodge/static/js/main.96e6e6a1.chunk.js.map",
     "runtime-main.js": "/hodgepodge/static/js/runtime-main.a9579170.js",
     "runtime-main.js.map": "/hodgepodge/static/js/runtime-main.a9579170.js.map",
     "static/css/2.882d4712.chunk.css": "/hodgepodge/static/css/2.882d4712.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.095a280b.chunk.js": "/hodgepodge/static/js/3.095a280b.chunk.js",
     "static/js/3.095a280b.chunk.js.map": "/hodgepodge/static/js/3.095a280b.chunk.js.map",
     "index.html": "/hodgepodge/index.html",
-    "precache-manifest.d7d96144a46145402ea7c1f2bb05c9fd.js": "/hodgepodge/precache-manifest.d7d96144a46145402ea7c1f2bb05c9fd.js",
+    "precache-manifest.6a2fd02175664582a89c1ffbc1f1cf54.js": "/hodgepodge/precache-manifest.6a2fd02175664582a89c1ffbc1f1cf54.js",
     "service-worker.js": "/hodgepodge/service-worker.js",
     "static/css/2.882d4712.chunk.css.map": "/hodgepodge/static/css/2.882d4712.chunk.css.map",
     "static/css/main.a5ec1593.chunk.css.map": "/hodgepodge/static/css/main.a5ec1593.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.882d4712.chunk.css",
     "static/js/2.e185acc6.chunk.js",
     "static/css/main.a5ec1593.chunk.css",
-    "static/js/main.d781bad8.chunk.js"
+    "static/js/main.96e6e6a1.chunk.js"
   ]
 }
