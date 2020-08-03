@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/hodgepodge/static/css/main.a5ec1593.chunk.css",
-    "main.js": "/hodgepodge/static/js/main.7de8d3a1.chunk.js",
-    "main.js.map": "/hodgepodge/static/js/main.7de8d3a1.chunk.js.map",
-    "runtime-main.js": "/hodgepodge/static/js/runtime-main.fe7851ac.js",
-    "runtime-main.js.map": "/hodgepodge/static/js/runtime-main.fe7851ac.js.map",
+    "main.css": "/hodgepodge/static/css/main.f91cfbd8.chunk.css",
+    "main.js": "/hodgepodge/static/js/main.caea69d8.chunk.js",
+    "main.js.map": "/hodgepodge/static/js/main.caea69d8.chunk.js.map",
+    "runtime-main.js": "/hodgepodge/static/js/runtime-main.2e79fe6b.js",
+    "runtime-main.js.map": "/hodgepodge/static/js/runtime-main.2e79fe6b.js.map",
     "static/css/2.882d4712.chunk.css": "/hodgepodge/static/css/2.882d4712.chunk.css",
-    "static/js/2.4e3790b7.chunk.js": "/hodgepodge/static/js/2.4e3790b7.chunk.js",
-    "static/js/2.4e3790b7.chunk.js.map": "/hodgepodge/static/js/2.4e3790b7.chunk.js.map",
-    "static/js/3.c173bf05.chunk.js": "/hodgepodge/static/js/3.c173bf05.chunk.js",
-    "static/js/3.c173bf05.chunk.js.map": "/hodgepodge/static/js/3.c173bf05.chunk.js.map",
+    "static/js/2.0eb862b1.chunk.js": "/hodgepodge/static/js/2.0eb862b1.chunk.js",
+    "static/js/2.0eb862b1.chunk.js.map": "/hodgepodge/static/js/2.0eb862b1.chunk.js.map",
+    "static/js/3.55d19cd0.chunk.js": "/hodgepodge/static/js/3.55d19cd0.chunk.js",
+    "static/js/3.55d19cd0.chunk.js.map": "/hodgepodge/static/js/3.55d19cd0.chunk.js.map",
     "index.html": "/hodgepodge/index.html",
-    "precache-manifest.00373b90e21f6f2e770ab0ee930eb910.js": "/hodgepodge/precache-manifest.00373b90e21f6f2e770ab0ee930eb910.js",
+    "precache-manifest.a95a897cb8f92e4431165862206b07af.js": "/hodgepodge/precache-manifest.a95a897cb8f92e4431165862206b07af.js",
     "service-worker.js": "/hodgepodge/service-worker.js",
     "static/css/2.882d4712.chunk.css.map": "/hodgepodge/static/css/2.882d4712.chunk.css.map",
-    "static/css/main.a5ec1593.chunk.css.map": "/hodgepodge/static/css/main.a5ec1593.chunk.css.map",
-    "static/js/2.4e3790b7.chunk.js.LICENSE": "/hodgepodge/static/js/2.4e3790b7.chunk.js.LICENSE",
+    "static/css/main.f91cfbd8.chunk.css.map": "/hodgepodge/static/css/main.f91cfbd8.chunk.css.map",
+    "static/js/2.0eb862b1.chunk.js.LICENSE": "/hodgepodge/static/js/2.0eb862b1.chunk.js.LICENSE",
     "static/media/semantic.min.css": "/hodgepodge/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.fe7851ac.js",
+    "static/js/runtime-main.2e79fe6b.js",
     "static/css/2.882d4712.chunk.css",
-    "static/js/2.4e3790b7.chunk.js",
-    "static/css/main.a5ec1593.chunk.css",
-    "static/js/main.7de8d3a1.chunk.js"
+    "static/js/2.0eb862b1.chunk.js",
+    "static/css/main.f91cfbd8.chunk.css",
+    "static/js/main.caea69d8.chunk.js"
   ]
 }
