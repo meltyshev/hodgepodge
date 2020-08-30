@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hodgepodge/precache-manifest.728ffd9b28e589a905c7b0e58665123d.js"
+  "/hodgepodge/precache-manifest.51b912bd890601f0ba0629af6940c72e.js"
 );
 
 self.addEventListener('message', (event) => {
