@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e63ae75e287940982421e2cb8d106569",
+    "revision": "e429a59a40ae69b04d9d946012a8fa78",
     "url": "/hodgepodge/index.html"
   },
   {
-    "revision": "24f6642c53d68328575a",
+    "revision": "224bd3c4d4c8bef1b5e3",
     "url": "/hodgepodge/static/css/2.882d4712.chunk.css"
   },
   {
-    "revision": "df5df65a4c3576f33638",
+    "revision": "26d3954e1c36cf531d3d",
     "url": "/hodgepodge/static/css/main.f91cfbd8.chunk.css"
   },
   {
-    "revision": "24f6642c53d68328575a",
-    "url": "/hodgepodge/static/js/2.b5227753.chunk.js"
+    "revision": "224bd3c4d4c8bef1b5e3",
+    "url": "/hodgepodge/static/js/2.fa50410f.chunk.js"
   },
   {
     "revision": "a001166ee7b76add8a5ce64ee9492506",
-    "url": "/hodgepodge/static/js/2.b5227753.chunk.js.LICENSE"
+    "url": "/hodgepodge/static/js/2.fa50410f.chunk.js.LICENSE"
   },
   {
     "revision": "180e36ca03201948e756",
     "url": "/hodgepodge/static/js/3.df17bf65.chunk.js"
   },
   {
-    "revision": "df5df65a4c3576f33638",
-    "url": "/hodgepodge/static/js/main.1ff1c781.chunk.js"
+    "revision": "26d3954e1c36cf531d3d",
+    "url": "/hodgepodge/static/js/main.ee30a116.chunk.js"
   },
   {
     "revision": "4c0216aebd081734eaa6",
