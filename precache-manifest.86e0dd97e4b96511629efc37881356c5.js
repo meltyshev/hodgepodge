@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4275203331942d770128953d14193b91",
+    "revision": "af93bdec583be701754a0b089d9bb134",
     "url": "/hodgepodge/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hodgepodge/static/css/2.882d4712.chunk.css"
   },
   {
-    "revision": "fce0de3da13f7d4b2bf9",
+    "revision": "783a656d578c5fc3b976",
     "url": "/hodgepodge/static/css/main.f91cfbd8.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hodgepodge/static/js/3.df17bf65.chunk.js"
   },
   {
-    "revision": "fce0de3da13f7d4b2bf9",
-    "url": "/hodgepodge/static/js/main.23aab9fb.chunk.js"
+    "revision": "783a656d578c5fc3b976",
+    "url": "/hodgepodge/static/js/main.73530397.chunk.js"
   },
   {
     "revision": "4c0216aebd081734eaa6",
